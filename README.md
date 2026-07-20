@@ -20,7 +20,6 @@ Delay is measured relative to the OSRM routing-time baseline. It is a modeling p
 ```text
 .
 ├── README.md
-├── safiri_take_home_problem_4.pdf
 ├── delhivery-prediction.ipynb
 ├── Nguyen_Nhat_Long_ETA_Shipment_Report.pdf
 └── Experiments/
@@ -37,7 +36,6 @@ Delay is measured relative to the OSRM routing-time baseline. It is a modeling p
 
 ### Main Submission Files
 
-- **`safiri_take_home_problem_4.pdf`** - original Safiri AI take-home assignment.
 - **`delhivery-prediction.ipynb`** - final executable solution and source of the submitted results.
 - **`Nguyen_Nhat_Long_ETA_Shipment_Report.pdf`** - final three-page technical report.
 
